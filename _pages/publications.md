@@ -25,17 +25,21 @@ Accepted papers
   
 Preprints
 ======
-1. A context for manifold calculus. [arxiv](https://arxiv.org/abs/2403.03321)
 
-1. Classification diagrams of marked simplicial sets. [arxiv](https://arxiv.org/abs/2311.01101)
+1. Cubical models of ∞-presheaves and the Bousfield–Kan formula. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv: 2511.12809](https://arxiv.org/abs/2511.12809)
 
-1. Homotopy limits and homotopy colimits of chain complexes. [arxiv](https://arxiv.org/abs/2310.00201)
+1. Derived mapping spaces of ∞-categories. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv: 2509.10288](https://arxiv.org/abs/2509.10288)
 
-1. Monoidal relative categories model monoidal ∞-categories. [arxiv](https://arxiv.org/abs/2504.20606)
+1. Monoidal relative categories model monoidal ∞-categories. [arxiv: 2504.20606](https://arxiv.org/abs/2504.20606)
 
-1. Cubical models of ∞-presheaves and the Bousfield–Kan formula. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv](https://arxiv.org/abs/2511.12809)
+1. The Grothendieck construction for ∞-categories fibered over categorical patterns. [arxiv: 2404.01025](https://arxiv.org/abs/2404.01025)
 
-1. Derived mapping spaces of ∞-categories. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv](https://arxiv.org/abs/2509.10288)
+1. A context for manifold calculus. [arxiv: 2403.03321](https://arxiv.org/abs/2403.03321)
+
+1. Classification diagrams of marked simplicial sets. [arxiv: 2311.01101](https://arxiv.org/abs/2311.01101)
+
+1. Homotopy limits and homotopy colimits of chain complexes. [arxiv: 2310.00201](https://arxiv.org/abs/2310.00201)
+
 
 In Preparation
 ======

@@ -29,6 +29,10 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 -->
+
+Funding
+======
+* 2024– JSPS Research Fellow (DC1)
   
 Teaching
 ======
