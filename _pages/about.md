@@ -9,4 +9,4 @@ redirect_from:
 
 Hi there! I am Kensuke Arakawa, a graduate student at Kyoto University. 
 
-I am broadly interested in the interaction of homotopy theory and category theory. I am especially interested in analyzing higher structures from more accesible ones, and this led me to study *localization*, *model categories*, *functor calculus*. I am also interested in applying these techniques to study manifolds. 
+I am broadly interested in the interaction of homotopy theory and category theory. I am especially interested in techniques to analyze higher structures from more accesible ones, such as *localization*, *model categories*, and *functor calculus*. I am also interested in applying these techniques to study manifolds. 
