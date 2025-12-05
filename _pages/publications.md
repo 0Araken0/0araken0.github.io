@@ -13,7 +13,7 @@ Accepted papers
 ======
 1. Universal properties of variations of the little cubes operads. *Münster J. Math.* **18**, 1–26. (2025) 
 
-1. Monoidal envelopes of families of $\infty$-operads and $\infty$-operadic Kan extensions. *Appl. Categ. Structures* **33**, 28, 40. (2025)
+1. Monoidal envelopes of families of ∞-operads and ∞-operadic Kan extensions. *Appl. Categ. Structures* **33**, 28, 40. (2025)
 
 1. Classification diagrams of simplicial categories. 
 *Cah. Topol. Géom. Différ. Catég.* **66**, 26–43. (2025)
@@ -31,11 +31,11 @@ Preprints
 
 1. Homotopy limits and homotopy colimits of chain complexes. [arxiv](https://arxiv.org/abs/2310.00201)
 
-1. Monoidal relative categories model monoidal $\infty$-categories. [arxiv](https://arxiv.org/abs/2504.20606)
+1. Monoidal relative categories model monoidal ∞-categories. [arxiv](https://arxiv.org/abs/2504.20606)
 
-1. Cubical models of $\infty$-presheaves and the Bousfield–Kan formula. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv](https://arxiv.org/abs/2511.12809)
+1. Cubical models of ∞-presheaves and the Bousfield–Kan formula. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv](https://arxiv.org/abs/2511.12809)
 
-1. Derived mapping spaces of $\infty$-categories. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv](https://arxiv.org/abs/2509.10288)
+1. Derived mapping spaces of ∞-categories. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv](https://arxiv.org/abs/2509.10288)
 
 In Preparation
 ======
